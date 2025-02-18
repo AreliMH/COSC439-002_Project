@@ -11,9 +11,6 @@ This project aims to create a local network multiplayer Tic-Tac-Toe game using s
 - Use socket programming to connect a host and opponent on the same network
 - Gain experience with socket programming and its implementation
 
-### Importance
-With the rise of online multiplayer games, local multiplayer experiences have become less common. However, local multiplayer still facilitates communication and bonding among peers. The user experience of playing Tic-Tac-Toe on one computer can be awkward, so this solution brings the game into a local network environment to make multiplayer more engaging and accessible.
-
 ### Features
 The game implements several features to ensure smooth gameplay over a local network:
 - **Multiplayer functionality**: Connect two players on the same network

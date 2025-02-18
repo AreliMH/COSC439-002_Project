@@ -1,5 +1,5 @@
-#TicTacToe
-By Andromeda Weir, Areli Morales-Hernandez, Ben Price*
+# TicTacToe
+By Andromeda Weir, Areli Morales-Hernandez, Ben Price
 
 ### Introduction
 This project aims to create a local network multiplayer Tic-Tac-Toe game using socket programming. The game connects two players on the same local network, allowing them to enjoy the classic game with real-time interaction. The core objectives of the project include developing a functional GUI, implementing game logic, and ensuring smooth communication between players over the network.
